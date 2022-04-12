@@ -1,5 +1,3 @@
-# anniecmb.github.io
-
-### Activité 8
+# Activité 8
 
 Apprendre à déboguer! 
