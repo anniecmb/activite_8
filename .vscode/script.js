@@ -9,3 +9,5 @@ function logMessage() {
     var m = 'Message';
     console.warn(m);
     var m = 'Attention!';
+    console.error(m);
+    var m = 'ERREUR';
