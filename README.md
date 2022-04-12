@@ -1,6 +1,6 @@
 # Activité 8
 
-Apprendre à déboguer!!!
+Apprendre à déboguer!!!!
 
 <img
   src="debug.JPG"
