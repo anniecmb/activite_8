@@ -6,4 +6,6 @@ function logDebug(){
   
 function logMessage() {
     console.log(m);
-    var m = 'Message'
+    var m = 'Message';
+    console.warn(m);
+    var m = 'Attention!';
